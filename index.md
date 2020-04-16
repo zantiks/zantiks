@@ -18,3 +18,5 @@ Features:
 * Remove or blur the background from webcam video, keep yourself only.
 * Play video in a floatable transparent frame.
 * Mirror another application view to a floatable transparent frame.
+
+v.1
