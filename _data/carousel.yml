@@ -1,2 +1,3 @@
 images:
-  - image: "./256.png"
+  - image: "./images/256.png"
+  - image: "./images/preview1.png"
