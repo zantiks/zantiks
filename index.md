@@ -5,6 +5,8 @@
 
 ![default](./256.png)
 
+{% include carousel.html height="50" unit="%" duration="7" %}
+
 ShareDesktop allows you to place a floating frame over all other windows.
  
 The ShareDesktop is great for Live Presentation and Screen Sharing or just to place useful information over all other windows.
