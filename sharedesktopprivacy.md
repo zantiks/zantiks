@@ -14,7 +14,7 @@ I don't collect and request any of personal infromation from you.
 
 **Log Data**
 
-I want to inform you that whenever you use my Service, in a case of an error in the app I may collect data and information (through third party products). This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
+I want to inform you that whenever you use my Service, in a case of an error in the app I may collect crash log and other diagnostic information (through third party products). This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
 
 **Cookies**
 
