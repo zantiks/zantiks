@@ -5,7 +5,7 @@
 
 ![default](./256.png)
 
-{% include carousel.html height="50" unit="%" duration="7" %}
+{% include carousel.html height="30" unit="%" duration="7" %}
 
 ShareDesktop allows you to place a floating frame over all other windows.
  
