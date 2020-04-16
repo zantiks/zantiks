@@ -3,7 +3,7 @@
 
 ### Share desktop utility for MacOS
 
-{% include carousel.html height="30" unit="%" duration="7" %}
+{% include carousel.html height="40" unit="%" duration="7" %}
 
 ShareDesktop allows you to place a floating frame over all other windows.
  
