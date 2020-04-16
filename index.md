@@ -18,3 +18,4 @@ Features:
 * Mirror another application view to a floatable transparent frame.
 
 v.1
+[Contacts](mailto:zantikshelp@gmail.com)
