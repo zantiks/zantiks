@@ -3,6 +3,8 @@
 
 ### Share desktop utility for MacOS
 
+![default](./256.png)
+
 ShareDesktop allows you to place a floating frame over all other windows.
  
 The ShareDesktop is great for Live Presentation and Screen Sharing or just to place useful information over all other windows.
